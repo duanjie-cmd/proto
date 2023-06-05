@@ -1,0 +1,1 @@
+{"version":3,"file":"registry.js","sourceRoot":"","sources":["../../../src/messages/vesting/registry.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,WAAW,EACX,+BAA+B,GAChC,MAAM,iCAAiC,CAAA;AACxC,OAAO,EAAE,MAAM,EAAE,MAAM,uCAAuC,CAAA;AAE9D,MAAM,CAAC,MAAM,oBAAoB,GAAG;IAClC,WAAW;IACX,+BAA+B;IAC/B,MAAM;CACP,CAAA"}

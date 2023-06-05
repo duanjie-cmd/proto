@@ -1,0 +1,1 @@
+{"version":3,"file":"aminoRegistry.js","sourceRoot":"","sources":["../../../src/messages/erc20/aminoRegistry.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,cAAc,EAAE,eAAe,EAAE,MAAM,+BAA+B,CAAA;AAC/E,OAAO,EAAE,oBAAoB,EAAE,MAAM,gCAAgC,CAAA;AAGrE,MAAM,UAAU,0BAA0B;IACxC,uCACK,oBAAoB,CAAC,cAAc,EAAE,sBAAsB,CAAC,GAC5D,oBAAoB,CAAC,eAAe,EAAE,uBAAuB,CAAC,EAClE;AACH,CAAC"}

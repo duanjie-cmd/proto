@@ -1,0 +1,1 @@
+{"version":3,"file":"registry.js","sourceRoot":"","sources":["../../../src/messages/erc20/registry.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,eAAe,EAAE,MAAM,+BAA+B,CAAA;AAC/E,OAAO,EACL,oBAAoB,EACpB,qBAAqB,GACtB,MAAM,kCAAkC,CAAA;AAEzC,MAAM,CAAC,MAAM,kBAAkB,GAAG;IAChC,cAAc;IACd,eAAe;IACf,oBAAoB;IACpB,qBAAqB;CACtB,CAAA"}

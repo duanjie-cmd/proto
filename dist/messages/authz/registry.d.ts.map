@@ -1,0 +1,1 @@
+{"version":3,"file":"registry.d.ts","sourceRoot":"","sources":["../../../src/messages/authz/registry.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,SAAS,EAAE,OAAO,EAAE,MAAM,gCAAgC,CAAA;AAC7E,OAAO,EAAE,KAAK,EAAE,oBAAoB,EAAE,MAAM,mCAAmC,CAAA;AAC/E,OAAO,EACL,kBAAkB,EAElB,6BAA6B,EAC9B,MAAM,qCAAqC,CAAA;AAE5C,eAAO,MAAM,kBAAkB,yKAS9B,CAAA"}

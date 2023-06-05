@@ -1,0 +1,1 @@
+{"version":3,"file":"dynamicFee.js","sourceRoot":"","sources":["../../../src/messages/evm/dynamicFee.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,2BAA2B,EAAE,MAAM,2CAA2C,CAAA;AAEvF,MAAM,UAAU,yBAAyB,CAAC,gBAAwB;IAChE,MAAM,OAAO,GAAG,IAAI,2BAA2B,CAAC;QAC9C,gBAAgB;KACjB,CAAC,CAAA;IACF,OAAO;QACL,OAAO;QACP,IAAI,EAAE,2BAA2B,CAAC,QAAQ;KAC3C,CAAA;AACH,CAAC"}

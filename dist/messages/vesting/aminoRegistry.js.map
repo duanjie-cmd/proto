@@ -1,0 +1,1 @@
+{"version":3,"file":"aminoRegistry.js","sourceRoot":"","sources":["../../../src/messages/vesting/aminoRegistry.ts"],"names":[],"mappings":"AACA,OAAO,EACL,WAAW,EACX,+BAA+B,GAChC,MAAM,iCAAiC,CAAA;AACxC,OAAO,EAAE,oBAAoB,EAAE,MAAM,gCAAgC,CAAA;AAKrE,MAAM,UAAU,4BAA4B;IAC1C,uCACK,oBAAoB,CAAC,WAAW,EAAE,mBAAmB,CAAC,GACtD,oBAAoB,CACrB,+BAA+B,EAC/B,uCAAuC,CACxC,EACF;AACH,CAAC"}

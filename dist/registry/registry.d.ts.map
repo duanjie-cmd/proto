@@ -1,0 +1,1 @@
+{"version":3,"file":"registry.d.ts","sourceRoot":"","sources":["../../src/registry/registry.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,gBAAgB,EAAE,MAAM,oBAAoB,CAAA;AA0BlE,eAAO,MAAM,aAAa,g1JAczB,CAAA;AAED,eAAO,MAAM,QAAQ;4BACK,MAAM,KAAG,WAAW,GAAG,SAAS;CAGzD,CAAA;AAED,eAAO,MAAM,WAAW,EAAE,gBAKzB,CAAA"}

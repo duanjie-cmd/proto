@@ -1,0 +1,1 @@
+{"version":3,"file":"registry.js","sourceRoot":"","sources":["../../../src/messages/crypto/registry.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,IAAI,aAAa,EAAE,MAAM,2CAA2C,CAAA;AACnF,OAAO,EAAE,MAAM,IAAI,kBAAkB,EAAE,MAAM,sCAAsC,CAAA;AAEnF,MAAM,CAAC,MAAM,mBAAmB,GAAG,CAAC,aAAa,EAAE,kBAAkB,CAAC,CAAA"}
